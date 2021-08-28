@@ -10,7 +10,7 @@ Currently we focus on personalized dialog generation, other personalized text ge
 
 Currently contains 55 papers.
 
-#### Non-neural Methods
+### Non-neural Methods
 
 1. Franc ̧ois Mairesse and Marilyn Walker "PERSONAGE: Personality Generation for Dialogue" ACL-2007
 2. Yonghee Kim, Jeesoo Bang, Junhwi Choi and Seonghan Ryu "Acquisition and Use of Long-Term Memory for Personalized Dialog Systems" Workshop on Multimodel Analyses Enabling Artificial Agents in Human-Machine Interaction-2014
@@ -18,7 +18,7 @@ Currently contains 55 papers.
 
 
 
-#### Use persona utterance to model users
+### Use persona utterance to model users
 
 ##### Use user ID embedding
 
@@ -62,7 +62,7 @@ Currently contains 55 papers.
 
 
 
-#### Use explicit persona profile to help model users
+### Use explicit persona profile to help model users
 
 ##### Use copy mechanism
 
