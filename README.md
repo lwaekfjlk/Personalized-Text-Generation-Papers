@@ -18,9 +18,7 @@ Currently contains 55 papers.
 
 
 
-### Use persona utterance to model users
-
-##### Use user ID embedding
+### Use user ID embedding
 
 1. Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan, "A Persona-Based Neural Conversation Model" ACL-2016
 2. Rami Al-Rfou, Marc Pickett, Javier Snaider, Yun-hsuan Sung, Brian Strope and Ray Kurzweil "Conversational Contextual Cues: The Case of Personalization and History for Response Ranking" arxiv-2016
@@ -29,6 +27,8 @@ Currently contains 55 papers.
 5. JinYeong Bak and Alice Oh "Variational Hierarchical User-based Conversation Model" EMNLP-2019
 6. Bowen Wu, Mengyuan Li, Zongsheng Wang, Yifu Chen, Derek F. Wong, Qihang Feng, Junhong Huang, Baoxun Wang "Guiding Variational Response Generator to Exploit Persona" ACL-2020
 7. Zhenghui Wang, Lingxiao Luo and Diyi Yang, "Personalized Response Generation with Tensor Factorization" GEM workshop-2021
+
+### Use utterance to model users
 
 ##### Use transfer learning
 
@@ -62,7 +62,7 @@ Currently contains 55 papers.
 
 
 
-### Use explicit persona profile to help model users
+### Use profile+utterance to help model users
 
 ##### Use copy mechanism
 
