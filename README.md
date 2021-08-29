@@ -18,7 +18,7 @@ Currently contains 55 papers.
 
 
 
-### Use user ID embedding
+### Use user ID embedding to model users
 
 1. Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan, "A Persona-Based Neural Conversation Model" ACL-2016
 2. Rami Al-Rfou, Marc Pickett, Javier Snaider, Yun-hsuan Sung, Brian Strope and Ray Kurzweil "Conversational Contextual Cues: The Case of Personalization and History for Response Ranking" arxiv-2016
@@ -62,7 +62,7 @@ Currently contains 55 papers.
 
 
 
-### Use profile+utterance to help model users
+### Use profile+utterance to model users
 
 ##### Use copy mechanism
 
