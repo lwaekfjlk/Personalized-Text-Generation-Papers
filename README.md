@@ -309,6 +309,8 @@ Papers in part2 are listed according to their generation task instead of methods
 
    [ACL2021] [Improving Dialog Systems for Negotiation with Personality Modeling](https://aclanthology.org/2021.acl-long.56.pdf)
 
+   [ACL2021] [Unsupervised Enrichment of Persona-grounded Dialog with Background Stories](https://arxiv.org/pdf/2106.08364.pdf)
+
    [AAAI2021] [The Adapter-Bot: All-In-One Controllable Conversational Model](https://www.aaai.org/AAAI21Papers/DEMO-233.LinZ.pdf)
 
    [NNLS2021] [Multitask Learning and Reinforcement Learning for Personalized Dialog Generation: An Empirical Study](https://ieeexplore.ieee.org/document/9025776)
@@ -321,7 +323,7 @@ Papers in part2 are listed according to their generation task instead of methods
 
    [arxiv2021] [Content Selection Network for Document-grounded Retrieval-based Chatbots](https://arxiv.org/pdf/2101.08426.pdf)
 
-   [arxiv2021] [Unsupervised Enrichment of Persona-grounded Dialog with Background Stories](https://arxiv.org/pdf/2106.08364.pdf)
+   
 
    
 
