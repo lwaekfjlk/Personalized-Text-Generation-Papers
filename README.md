@@ -124,7 +124,7 @@ Papers in part1 are listed according to answer the four questions mentioned abov
 
          [IJCAI2018] [Assigning Personality/Identity to a Chatting Machine for Coherent Conversation Generation](https://www.ijcai.org/proceedings/2018/0595.pdf)
 
-      3. expaned text profile
+      3. expanded text profile
 
          [EMNLP2020] [Like hiking? You probably *enjoy nature*: Persona-grounded Dialog with Commonsense Expansions](https://arxiv.org/pdf/2010.03205.pdf)
 
@@ -401,9 +401,9 @@ Papers in part2 are listed according to their generation task instead of methods
 
    [SLT2012] [Personalized language modeling by crowd sourcing with social network data for voice access of cloud applications](https://ieeexplore.ieee.org/document/6424220)
 
-   [TASLP2016] [Personalizing Recurrent Neural Network Based Language Model by Social Network](https://dl.acm.org/doi/10.1109/TASLP.2016.2635445)
-
    [ACL2014] [Enriching Cold Start Personalized Language Model Using Social Network Information](https://aclanthology.org/P14-2100.pdf)
+
+   [TASLP2016] [Personalizing Recurrent Neural Network Based Language Model by Social Network](https://dl.acm.org/doi/10.1109/TASLP.2016.2635445)
 
    [ACL2018] [Personalized Language Model for Query Auto-Completion](https://aclanthology.org/P18-2111.pdf)
 
