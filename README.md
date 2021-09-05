@@ -13,10 +13,10 @@ Personalized text generation includes topics like :
 
 For each paper, we pay attention to four themes mentioned in these papers: 
 
-	1. how to do personalized train/inference 
- 	2. how to model personality
- 	3. which dataset do they use
- 	4. how to evaluate personalized performance
+1. how to do personalized train/inference 
+2. how to model personality
+3. which dataset do they use
+4. how to evaluate personalized performance
 
 As a result, we organize the paperlist based on their generation task and classify them according to answer the four questions.
 
@@ -24,7 +24,9 @@ This paperlist not only includes papers aiming at solving personalized problems,
 
 
 
-### Part1 List representative papers on personalized text generation and their classification
+
+
+## Part1 List and classify representative papers on personalized text generation
 
 Papers in part1 are listed according to answer the four questions mentioned above.
 
@@ -167,7 +169,7 @@ Papers in part1 are listed according to answer the four questions mentioned abov
 
 
 
-### Part2 List all related or inspiring papers regarding to personalized text generation
+## Part2 List all related or inspiring papers regarding to personalized text generation
 
 Papers in part2 are listed according to their generation task instead of methods or dataset. Papers might not be directly related to personalized text generation but at least, from my perspective, can provide some interesing insight into this topic. 
 
