@@ -128,9 +128,9 @@ Papers in part1 are listed according to answer the four questions mentioned abov
 
          [EMNLP2020] [Like hiking? You probably *enjoy nature*: Persona-grounded Dialog with Commonsense Expansions](https://arxiv.org/pdf/2010.03205.pdf)
 
-         [arxiv2021] [Unsupervised Enrichment of Persona-grounded Dialog with Background Stories](https://arxiv.org/pdf/2106.08364.pdf)
-
          [EMNLP2020] [Toward Stance-based Personas for Opinionated Dialogues](https://aclanthology.org/2020.findings-emnlp.238.pdf)
+
+         [ACL2021] [Unsupervised Enrichment of Persona-grounded Dialog with Background Stories](https://arxiv.org/pdf/2106.08364.pdf)
 
    3. Model personality in an interactive action
 
@@ -323,7 +323,7 @@ Papers in part2 are listed according to their generation task instead of methods
 
    [arxiv2021] [Content Selection Network for Document-grounded Retrieval-based Chatbots](https://arxiv.org/pdf/2101.08426.pdf)
 
-   
+   [EMNLP2021] [Detecting Speaker Personas from Conversational Texts](https://arxiv.org/pdf/2109.01330.pdf)
 
    
 
